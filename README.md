@@ -1,7 +1,7 @@
 # Steps to reproduce
 
 - `git clone https://github.com/aolsenjazz/midi-test-coremidi`
-- Repos contains a binary which you can run, just let Security preferences that you want to run it
+- Repo contains a binary which you can run, just tell Security preferences that you want to run it
 - You can also just build from source if you want: `./build.sh`
 - Download + install [mimic](https://github.com/aolsenjazz/mimic)
 - Launch an APC Key 25 from top-left "New" menu. Note, c++ script is hardcoded to this device. You can change in the script
